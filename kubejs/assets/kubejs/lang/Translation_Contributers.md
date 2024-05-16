@@ -12,3 +12,6 @@ Japanese,
 
 French, (partial, needs updating)
 - FabLeKebab (https://github.com/FabLeKebab)
+
+Norwegian,
+- Permest  (https://github.com/Permest)
